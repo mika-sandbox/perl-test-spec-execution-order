@@ -2,7 +2,7 @@
 
 
 ```terminal
-perl-test-spec-execution-order on master ❯ carton exec prove ./t/                                                                                                10:46:07
+perl-test-spec-execution-order on master ❯ carton exec prove ./t/
 t/001_execution_order.t ..
 Describe Block #1 at t/001_execution_order.t line 5.
 Context Block #1 - 1 at t/001_execution_order.t line 12.
